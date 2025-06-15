@@ -1,5 +1,7 @@
 # AI-Agent-Reasoning-Papers
 ## Reasoning Paper List
+
+### 2025
 - RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought, [Paper](https://arxiv.org/abs/2506.04277) *(June 4, 2025)*  
 - The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity, [Paper](https://arxiv.org/pdf/2506.06941) *(June 7, 2025)*  
 - Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning, [Paper](http://arxiv.org/abs/2506.05256) *(June 2025)*  
@@ -24,15 +26,21 @@
 - SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post‑training, [Paper](http://arxiv.org/abs/2501.17161) *(January 2025)*  
 - Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization, [Paper](http://arxiv.org/abs/2501.17974) *(January 2025)*  
 - LLMs Can Plan Only If We Tell Them, [Paper](http://arxiv.org/abs/2501.13545) *(January 2025)*  
-- Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain‑of‑Thought, [Paper](http://arxiv.org/abs/2501.04682) *(January 2025)*  
+- Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain‑of‑Thought, [Paper](http://arxiv.org/abs/2501.04682) *(January 2025)*
+
+### 2024
 - SegLLM: Multi-round Reasoning Segmentation, [Paper](https://arxiv.org/abs/2410.18923) *(October 24, 2024)* 
 - Automatic Curriculum Expert Iteration for Reliable LLM Reasoning, [Paper](http://arxiv.org/abs/2410.07627) *(October 2024)*  
 - Combinatorial Reasoning: Selecting Reasons in Generative AI Pipelines via Combinatorial Optimization, [Paper](http://arxiv.org/abs/2407.00071) *(July 2024)*  
 - Can LLMs Learn by Teaching for Better Reasoning? A Preliminary Study, [Paper](http://arxiv.org/abs/2406.14629) *(June 2024)*  
 - Quiet‑STaR: Language Models Can Teach Themselves to Think Before Speaking, [Paper](http://arxiv.org/abs/2403.09629) *(March 2024)*  
 - Self‑Rewarding Language Models, [Paper](http://arxiv.org/abs/2401.10020) *(January 2024)*  
-- The Impact of Reasoning Step Length on Large Language Models, [Paper](http://arxiv.org/abs/2401.04925) *(January 2024)*  
+- The Impact of Reasoning Step Length on Large Language Models, [Paper](http://arxiv.org/abs/2401.04925) *(January 2024)*
+
+### 2023
 - Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models, [Paper](http://arxiv.org/abs/2308.10379) *(August 2023)*  
-- Tree of Thoughts: Deliberate Problem Solving with Large Language Models, [Paper](http://arxiv.org/abs/2305.10601) *(May 2023)*  
+- Tree of Thoughts: Deliberate Problem Solving with Large Language Models, [Paper](http://arxiv.org/abs/2305.10601) *(May 2023)*
+
+### 2022
 - STaR: Bootstrapping Reasoning With Reasoning, [Paper](http://arxiv.org/abs/2203.14465) *(March 2022)*  
 - Self‑Consistency Improves Chain of Thought Reasoning in Language Models, [Paper](http://arxiv.org/abs/2203.11171) *(March 2022)*  

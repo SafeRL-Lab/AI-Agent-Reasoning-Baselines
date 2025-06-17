@@ -2,6 +2,7 @@
 ## Reasoning Paper List
 
 ### 2025
+- Spurious Rewards: Rethinking Training Signals in RLVR, [Paper](https://arxiv.org/pdf/2506.10947) *(Jun 12, 2025)*
 - RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought, [Paper](https://arxiv.org/abs/2506.04277) *(June 4, 2025)*  
 - The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity, [Paper](https://arxiv.org/pdf/2506.06941) *(June 7, 2025)*  
 - Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning, [Paper](http://arxiv.org/abs/2506.05256) *(June 2025)*  
@@ -12,8 +13,9 @@
 - Learning When to Think: Shaping Adaptive Reasoning in R1‑Style Models via Multi‑Stage RL, [Paper](https://arxiv.org/pdf/2505.10832) *(May 16, 2025)*  
 - Chain‑of‑Thought Tokens are Computer Program Variables, [Paper](http://arxiv.org/abs/2505.04955) *(May 2025)*  
 - SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model, [Paper](https://arxiv.org/abs/2504.09644) *(April 13, 2025)* 
-- Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?, [Paper](http://arxiv.org/abs/2504.13837) *(April 2025)*  
-- Inference‑Time Scaling for Generalist Reward Modeling, [Paper](http://arxiv.org/abs/2504.02495) *(April 2025)*  
+- Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?, [Paper](http://arxiv.org/abs/2504.13837) *(April 18, 2025)*
+- Climbing the Ladder of Reasoning: What LLMs Can—and Still Can’t—Solve after SFT?, [Paper](http://arxiv.org/abs/2504.11741) *(April 16, 2025)*  
+- Inference‑Time Scaling for Generalist Reward Modeling, [Paper](http://arxiv.org/abs/2504.02495) *(April 3, 2025)*  
 - Test‑Time Reasoning Through Visual Human Preferences with VLMs and Soft Rewards, [Paper](http://arxiv.org/abs/2503.19948) *(March 2025)*  
 - SimpleRL‑Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild, [Paper](http://arxiv.org/abs/2503.18892) *(March 2025)*  
 - What Makes a Reward Model a Good Teacher? An Optimization Perspective, [Paper](http://arxiv.org/abs/2503.15477) *(March 2025)*  

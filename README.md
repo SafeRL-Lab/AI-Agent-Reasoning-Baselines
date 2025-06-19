@@ -2,6 +2,7 @@
 ## Reasoning Paper List
 
 ### 2025
+- AceReason-Nemotron 1.1: Advancing Math and Code Reasoning through SFT and RL Synergy, [Paper](https://arxiv.org/pdf/2506.13284) *(Jun 13, 2025)*
 - Spurious Rewards: Rethinking Training Signals in RLVR, [Paper](https://arxiv.org/pdf/2506.10947) *(Jun 12, 2025)*
 - RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought, [Paper](https://arxiv.org/abs/2506.04277) *(June 4, 2025)*  
 - The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity, [Paper](https://arxiv.org/pdf/2506.06941) *(June 7, 2025)*  

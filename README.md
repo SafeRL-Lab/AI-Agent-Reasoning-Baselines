@@ -8,7 +8,8 @@
 - The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity, [Paper](https://arxiv.org/pdf/2506.06941) *(June 7, 2025)*  
 - Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning, [Paper](http://arxiv.org/abs/2506.05256) *(June 2025)*  
 - Does Thinking More always Help? Understanding Test‑Time Scaling in Reasoning Models, [Paper](http://arxiv.org/abs/2506.04210) *(June 2025)*  
-- The Illusion of Thinking: Comment on Shojaee et al., [Paper](https://arxiv.org/abs/2506.09250) *(June 10, 2025)*  
+- The Illusion of Thinking: Comment on Shojaee et al., [Paper](https://arxiv.org/abs/2506.09250) *(June 10, 2025)*
+- ReMA: Learning to Meta-think for LLMs with Multi-agent Reinforcement Learning, [Paper](https://arxiv.org/pdf/2503.09501) *(May 27, 2025)*
 - WorkForceAgent‑R1: Incentivizing Reasoning Capability in LLM-based Web Agents via Reinforcement Learning, [Paper](http://arxiv.org/abs/2505.22942) *(May 22, 2025)*  
 - AdaptThink: Reasoning Models Can Learn When to Think, [Paper](https://arxiv.org/abs/2505.13417) *(May 19, 2025)*  
 - Learning When to Think: Shaping Adaptive Reasoning in R1‑Style Models via Multi‑Stage RL, [Paper](https://arxiv.org/pdf/2505.10832) *(May 16, 2025)*
